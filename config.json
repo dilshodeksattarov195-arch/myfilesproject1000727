@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepetch",
+        "uuid": 1411834,
+        "checksum": "u49rv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
